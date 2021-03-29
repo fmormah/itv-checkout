@@ -1,0 +1,2 @@
+- Install with yarn/npm install
+- Run with yarn/npm start
